@@ -43,11 +43,11 @@ Dalam User Page :
 3. dan pada user profile juga terdapat Line Graph yang dapat dilihat intensitas user mengumpulkan sampah
 4. Setelah itu ada button yang akan mengirimkan ke halaman user point
 5. Isi dalam user point terdapat pilihan untuk user, antara ingin menukarkan pointnya menjadi uang ataupun hadiah
-6.Logout terdapat dipojok kanan atas
+6. Logout terdapat dipojok kanan atas
 
 Dalam Admin page :
 
-1. Terdapat 3 menu pilihan kategori, Dimana kita dapat memilih salah sat kategori sesuai dengan sampah yang dibawa oleh user
+1. Terdapat 3 menu pilihan kategori, Dimana kita dapat memilih salah satu kategori sesuai dengan sampah yang dibawa oleh user
 2. Lalu setelah itu ada modal section didalamnya terdapat input user dan input berat sampah
 3. Jika sudah mengisi semua formnya, maka berat sampah sesuai kategori yang sudah diisi oleh admin dapat berubah secara otomatis menjadi point untuk user tersebut
 4. Logout ada dibagian navbar
