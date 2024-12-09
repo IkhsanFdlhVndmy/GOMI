@@ -1,0 +1,56 @@
+@media (max-width: 1170px) {
+  .section-subtitle {
+    max-width: 90%;
+  }
+  .header .navbar {
+    background-size: cover;
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .about .banner_section,
+  .product .banner_section,
+  .gallery .banner_section,
+  .contact .banner_section {
+    padding-top: 12.5rem;
+    padding-bottom: 3rem;
+  }
+  .header .navbar {
+    background-size: cover;
+    padding: 2rem;
+  }
+  .header .navbar-nav .nav-link {
+    padding: 0.2rem 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .banner_section .carousel-item {
+    height: 90vh;
+  }
+}
+@media (max-width: 767px) {
+  body,
+  html {
+    font-size: 8px;
+  }
+  .section-subtitle {
+    max-width: 90%;
+  }
+  .banner_section {
+    min-height: 70vh;
+  }
+  .banner_section .carousel-item {
+    height: 70vh;
+  }
+  .tutorial {
+    min-height: 80%;
+  }
+  .section-padding {
+    min-height: 20vh;
+  }
+}
+@media (max-width: 590px) {
+  body,
+  html {
+    font-size: 7px;
+  }
+}
