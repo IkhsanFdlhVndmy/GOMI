@@ -4,8 +4,8 @@ Untuk Mengakses Website GOMI:
 2. download Vscode di website
 3. setelah download xampp, nyalakan "Apache"
 4. Clone repository ini
-5. Buka file "gomi_codelabs_Database.md" di repository ini
-6. Setelah itu copy all query yang ada di file "gomi_codelabs_Database.md"
+5. Buka file "gomi_codelabs_Database.txt" di repository ini
+6. Setelah itu copy all query yang ada di file "gomi_codelabs_Database.txt"
 7. Dan paste query yang sudah di copy kedalam SQL yang ada di PhpMyAdmin 
 8. Pastikan database "gomi_codelabs" sudah berhasil terbuat di PhpmyAdmin sebelum menjalankan WEBSITE GOMI
 9. Jangan Lupa simpan folder GOMI pada htdocs di folder xampp
